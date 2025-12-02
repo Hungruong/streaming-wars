@@ -1,0 +1,37 @@
+[
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "color": "#E50914"
+  },
+  {
+    "id": "disney_plus",
+    "name": "Disney+",
+    "color": "#113CCF"
+  },
+  {
+    "id": "amazon_prime",
+    "name": "Prime Video",
+    "color": "#00A8E1"
+  },
+  {
+    "id": "hbo_max",
+    "name": "Max",
+    "color": "#B535F6"
+  },
+  {
+    "id": "hulu",
+    "name": "Hulu",
+    "color": "#1CE783"
+  },
+  {
+    "id": "apple_tv",
+    "name": "Apple TV+",
+    "color": "#555555"
+  },
+  {
+    "id": "paramount_plus",
+    "name": "Paramount+",
+    "color": "#0064FF"
+  }
+]

@@ -1,0 +1,61 @@
+country_code,country_name,region,netflix,disney,prime,hbo,hulu,apple,paramount,total_services
+us,United States,North America,1,1,1,1,1,1,1,7
+au,Australia,Asia Pacific,1,1,1,1,0,1,1,6
+mx,Mexico,Latin America,1,1,1,1,0,1,1,6
+cl,Chile,Latin America,1,1,1,1,0,1,1,6
+br,Brazil,Latin America,1,1,1,1,0,1,1,6
+pa,Panama,Other,1,1,1,1,0,1,1,6
+ar,Argentina,Latin America,1,1,1,1,0,1,1,6
+fr,France,Europe,1,1,1,1,0,1,1,6
+co,Colombia,Latin America,1,1,1,1,0,1,1,6
+se,Sweden,Europe,1,1,1,1,0,1,0,5
+dk,Denmark,Europe,1,1,1,1,0,1,0,5
+ca,Canada,North America,1,1,1,0,0,1,1,5
+ch,Switzerland,Europe,1,1,1,0,0,1,1,5
+hu,Hungary,Europe,1,1,1,1,0,1,0,5
+pl,Poland,Europe,1,1,1,1,0,1,0,5
+ph,Philippines,Asia Pacific,1,1,1,1,0,1,0,5
+cz,Czech Republic,Europe,1,1,1,1,0,1,0,5
+de,Germany,Europe,1,1,1,0,0,1,1,5
+at,Austria,Europe,1,1,1,0,0,1,1,5
+fi,Finland,Europe,1,1,1,1,0,1,0,5
+pt,Portugal,Europe,1,1,1,1,0,1,0,5
+be,Belgium,Europe,1,1,1,1,0,1,0,5
+no,Norway,Europe,1,1,1,1,0,1,0,5
+nl,Netherlands,Europe,1,1,1,1,0,1,0,5
+gb,United Kingdom,Europe,1,1,1,0,0,1,1,5
+es,Spain,Europe,1,1,1,1,0,1,0,5
+hk,Hong Kong,Asia Pacific,1,1,1,1,0,1,0,5
+it,Italy,Europe,1,1,1,0,0,1,1,5
+bg,Bulgaria,Europe,1,1,1,1,0,1,0,5
+ie,Ireland,Europe,1,1,1,0,0,1,1,5
+sg,Singapore,Asia Pacific,1,1,1,1,0,1,0,5
+mk,North Macedonia,Other,1,1,1,1,0,0,0,4
+my,Malaysia,Asia Pacific,1,0,1,1,0,1,0,4
+pe,Peru,Latin America,1,1,0,1,0,0,1,4
+rs,Serbia,Other,1,1,1,1,0,0,0,4
+th,Thailand,Asia Pacific,1,0,1,1,0,1,0,4
+hr,Croatia,Other,1,1,1,1,0,0,0,4
+jp,Japan,Asia Pacific,1,1,1,0,0,1,0,4
+md,Moldova,Other,1,0,1,1,0,1,0,4
+tr,Turkey,Europe,1,1,1,1,0,0,0,4
+lt,Lithuania,Other,1,1,1,0,0,1,0,4
+gr,Greece,Europe,1,1,1,0,0,1,0,4
+id,Indonesia,Asia Pacific,1,0,1,1,0,1,0,4
+ec,Ecuador,Other,1,1,0,1,0,0,1,4
+ro,Romania,Europe,1,1,1,1,0,0,0,4
+nz,New Zealand,Asia Pacific,1,1,1,0,0,1,0,4
+kr,South Korea,Asia Pacific,1,1,1,0,0,1,0,4
+is,Iceland,Other,1,1,1,0,0,0,0,3
+ee,Estonia,Other,1,1,0,0,0,1,0,3
+ua,Ukraine,Europe,1,0,1,0,0,1,0,3
+vn,Vietnam,Asia Pacific,1,0,1,0,0,1,0,3
+in,India,Asia Pacific,1,0,1,0,0,1,0,3
+si,Slovenia,Other,1,1,0,1,0,0,0,3
+ae,United Emirates,Middle East,1,0,1,0,0,1,0,3
+cy,Cyprus,Other,1,0,1,0,0,1,0,3
+il,Israel,Middle East,1,0,1,0,0,1,0,3
+za,South Africa,Africa,1,0,1,0,0,1,0,3
+sk,Slovakia,Other,1,0,0,0,0,0,0,1
+az,Azerbaijan,Other,1,0,0,0,0,0,0,1
+ru,Russia,Europe,0,0,0,0,0,0,0,0
