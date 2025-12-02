@@ -10,11 +10,11 @@ An interactive data visualization exploring the competitive landscape of streami
 
 | Subscriber Race | Content Library |
 |-----------------|-----------------|
-| ![Race Chart](![alt text](image.png)) | ![Content Bubble](![alt text](image-1.png)) |
+| ![alt text](image.png) | ![alt text](image-1.png) |
 
 | Genre Trends | Global Reach |
 |--------------|--------------|
-| ![Genre Trends](![alt text](image-2.png)) | ![Geographic Map](![alt text](image-3.png)) |
+| ![alt text](image-2.png) | ![alt text](image-3.png) |
 
 ---
 
