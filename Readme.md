@@ -2,7 +2,7 @@
 
 An interactive data visualization exploring the competitive landscape of streaming platforms from 2017-2024.
 
-**[Live Demo](#)** _(add link after deployment)_
+**[Live Demo]([#](https://streaming-wars.vercel.app/))**
 
 ---
 
